@@ -1,0 +1,8 @@
+prefix=/home/wong/catkin_wh/devel
+
+Name: ivestop
+Description: Description of ivestop
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/wong/catkin_wh/devel/lib 
+Requires: roscpp rospy std_msgs message_runtime
